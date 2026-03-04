@@ -1,10 +1,10 @@
-# JPCH Multi-Tenant Job Order & Inventory Monitoring System
+# JobFlow OMS
 
 > **Note:** This is a school project submitted for the **Web Systems and Technologies** course.
 
 ## Short Description
 
-JPCH is a cloud-based, multi-tenant Job Order and Inventory Management System developed using the Laravel Framework. It centralizes job order tracking, material allocation, and status monitoring to eliminate data silos in construction companies, maintenance departments, and facilities management teams.
+**JobFlow OMS** is a cloud-based, multi-tenant Job Order and Inventory Management System developed using the Laravel Framework. It centralizes job order tracking, material allocation, and status monitoring to eliminate data silos in construction companies, maintenance departments, and facilities management teams.
 
 ## Features
 
